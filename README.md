@@ -5,7 +5,7 @@
 - 이름 : 조세상
 
 - 이메일 : sesang06@naver.com
-- 깃허브: [github.com/sesamg06](https://github.com/sesang06)
+- 깃허브: [github.com/sesang06](https://github.com/sesang06)
 - 티스토리 : [sesang06.tistory.com](http://sesang06.tistory.com/)
 
 ## 약력
@@ -47,9 +47,9 @@
 
 
 #### 이런 라이브러리를 활용해 봤어요
-- **Glide*8
+- **Glide**
     - 강력한 이미지 라이브러리. 없어선 못 살아요.
-- **gson*8 
+- **gson**
     - json을 매핑할 때 즐겨 사용해요.
 - **admob**
 - **KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin**
