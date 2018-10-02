@@ -14,37 +14,40 @@
 - 현역 정보처리 산업기능요원 편입 및 복무중 (~2020년 9월까지)
 
 ## 프로젝트
- ### 텍스트 리더
+### 텍스트 리더
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader.png?raw=true" width="80" height="80"/>
  
-  #### 앱스토어 링크
+#### 앱스토어 링크
   
   [https://itunes.apple.com/us/app/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A6%AC%EB%8D%94/id1437719953?l=ko&ls=1&mt=8](https://itunes.apple.com/us/app/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A6%AC%EB%8D%94/id1437719953?l=ko&ls=1&mt=8)
+  
    <img src="https://github.com/sesang06/RESUME/blob/master/textreader_1.jpg?raw=true" width="200" height="400"/>
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader_2.jpg?raw=true" width="200" height="400"/>
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader_3.jpg?raw=true" width="200" height="400"/>
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader_4.jpg?raw=true" width="200" height="400"/>
  
-  #### 개발기간 
+#### 개발기간 
    2018.8.15 ~
   
-  #### 최초출시 
+#### 최초출시 
    2018.10.2
   
-  #### 기능
-    - 파일 이동, 생성, 복사, 이름 변경
-    - 텍스트 파일 페이징처리해서 콜렉션뷰로 보여줌
-    - CoreData로 읽은 현 페이지 저장
-    - 최신 도큐먼트 확인
-    - 텍스트파일 임포트하기, 익스포트하기
-    - 주 야간 모드
-  #### 개발 주요 특이사항
-    - SnapKit으로 UI 설계 (스토리보드 없음)
+#### 기능
+- 파일 이동, 생성, 복사, 이름 변경
+- 텍스트 파일 페이징처리해서 콜렉션뷰로 보여줌
+- CoreData로 읽은 현 페이지 저장
+- 최신 도큐먼트 확인
+- 텍스트파일 임포트하기, 익스포트하기
+- 주 야간 모드
+#### 개발 주요 특이사항
+  - SnapKit으로 UI 설계 (스토리보드 없음)
+    
   #### 개발 중 포스트
-    - [텍본리더 개발 이슈 - 로딩바의 출력에 rxSwift를 도입](https://sesang06.tistory.com/45)
-    - [iOS 텍스트가 비었으면 확인 버튼 비활성하는 UIAlertController 생성](https://sesang06.tistory.com/38)
-    - [UITableView를 스냅킷으로 구현하면서 생겼던 이슈](https://sesang06.tistory.com/46)
-    - [iOS 텍스트 뷰어 개발을 끝내고 검수를 넣으며](https://sesang06.tistory.com/44)
+  
+- [텍본리더 개발 이슈 - 로딩바의 출력에 rxSwift를 도입](https://sesang06.tistory.com/45)
+- [iOS 텍스트가 비었으면 확인 버튼 비활성하는 UIAlertController 생성](https://sesang06.tistory.com/38)
+- [UITableView를 스냅킷으로 구현하면서 생겼던 이슈](https://sesang06.tistory.com/46)
+- [iOS 텍스트 뷰어 개발을 끝내고 검수를 넣으며](https://sesang06.tistory.com/44)
 ## 관심사
 
 이런 것을 하고 있어요
