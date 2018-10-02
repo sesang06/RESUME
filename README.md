@@ -27,7 +27,7 @@
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader_4.jpg?raw=true" width="200" height="400"/>
  
 #### 개발자
-   개인프로젝트, 
+   개인프로젝트, 단독 개발 (1인)
 #### 개발기간 
    2018.8.15 ~
   
