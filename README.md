@@ -26,6 +26,8 @@
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader_3.jpg?raw=true" width="200" height="400"/>
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader_4.jpg?raw=true" width="200" height="400"/>
  
+#### 개발자
+   개인프로젝트, 
 #### 개발기간 
    2018.8.15 ~
   
