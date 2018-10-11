@@ -6,7 +6,8 @@
 
 - 이메일 : sesang06@naver.com
 - 깃허브: [github.com/sesang06](https://github.com/sesang06)
-- 티스토리 : [sesang06.tistory.com](http://sesang06.tistory.com/)
+- 티스토리 : [sesang06.tistory.com](http://sesang06.tistory.com/), 백준 C++ 스터디코드 업로드 및 iOS/Android 개발이슈 포스트용)
+
 
 ## 약력
 - 보인고등학교 졸업(2012 ~ 2014)
@@ -161,3 +162,11 @@
     - 취미용 게임을 만들어보고 싶어요
 - **spring**
     - 업무용 백엔드에 대해 이해하고 싶어요
+
+## Tistory Post
+- 개발 중 발견한 문제점을 티스토리에 올려 정리합니다.
+### For example..?
+- [iOS swift 네이버 프로필 api 샘플 코드](https://sesang06.tistory.com/16)
+- [iOS 앱 간의 통신을 구현하기](https://sesang06.tistory.com/21)
+- [iOS Objectiv-C code) WkWebview post 방식시 httpbody 씹는 문제 (iOS 10 이하 대응) 해결방안](https://sesang06.tistory.com/14)
+- [Android 애드몹 'admob getting an ad response. ErrorCode: 0 Failed to load ad:0' 에러 원인](https://sesang06.tistory.com/52)
