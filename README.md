@@ -6,15 +6,78 @@
 
 - 이메일 : sesang06@naver.com
 - 깃허브: [github.com/sesang06](https://github.com/sesang06)
+- 링크드인: [https://www.linkedin.com/in/644215109/](https://www.linkedin.com/in/644215109/)
 - 티스토리 : [sesang06.tistory.com](http://sesang06.tistory.com/)
 ---
 
-## 약력
-- 보인고등학교 졸업(2012 ~ 2014)
-- 서울대학교 컴퓨터공학과 3학년 휴학(2015년도 입학) 
-- 현역 정보처리 산업기능요원 편입 및 복무중 (2017년 11월 편입 ~ 2020년 9월까지 복무 예정)
+# 경력
+
+- 모젯, iOS 클라이언트 개발자 (2019년 1월 ~ 2020년 9월)
+    - 정오의데이트 앱 유지보수
+    - 산업기능요원 복무
+- 폴리큐브, iOS 및 안드로이드 클라이언트 개발자 (2017년 11월 ~ 2019년 1월)
+    - 판 서비스 신규개발 및 유지보수
+    - 산업기능요원 복무
+
+# 학력
+
+## 서울대학교
+
+컴퓨터공학과. 학사 휴학. 2015년 입학.
+5학기 이수. 2021년 졸업예정.
 
 ---
+
+# 프로젝트
+
+### 모젯 2019.1 ~ 2020.9 (1년 8개월)
+
+정오의데이트 앱 유지보수 작업
+
+Firebase Distribution, Fastlane을 이용한 배포. Firebase remoteConfig. SwiftLint. Moya, RxSwift, Kingfisher, Firebase 등을 이용해 개발. Cocoapods으로 의존성을 관리하였으나, 빌드 시간을 줄이기 위해 최근에 Carthage로 이전했습니다.
+
+정오의데이트의 네이티브 서비스를 신규개발, 유지보수를 진행합니다. Swift, RxSwift, Moya, Alamofire, SnapKit 등을 사용합니다.
+- RxSwift를 이용한 MVVM 모델 개발
+- WKWebView 관련 개선 작업
+- 개발용 서버용 디버그 버전 작성 및 배포
+- 코코아팟 라이브러리를 카르타고로 전환하여, 아카이브 및 빌드 속도를 10분 단축함
+- SwiftLint, Fastlane 도입
+- iOS 13 출시에 맞추어 복잡해진 위치정보 권한 획득 과정, 다크 모드 금지 처리 등 대응
+
+### 폴리큐브 2017. 11 ~ 2019. 1 (1년 3개월)
+
+SNS 서비스 신규개발 및 기존 서비스 유지보수
+
+- 토닥토닥 판 웹, 서버, 안드로이드, iOS 신규개발 및 유지보수
+서버 php, mysql, 프론트 javascript, 안드로이드 java, iOS Swift
+메인 피드는 웹뷰로 작업하되, 글쓰기, 소셜 로그인 등 일부 기능 네이티브로 개발
+- 모바일아리수 안드로이드 클라이언트 유지보수
+구글의 타겟 API 28 이상 의무화에 따른 타겟 API 22 앱 28 지원, GCM -> FCM 마이그레이션, 비콘 탐색 서비스 포그라운드 서비스로 마이그레이션
+- 태경포리마 메시지 앱 iOS, 안드로이드 클라이언트 유지보수
+일부 메인 화면 개발 및 사진 다중 전송 기능, 그룹 기능 안드로이드 클라이언트 추가
+
+
+# 블로거
+
+[https://sesang06.tistory.com/](https://sesang06.tistory.com/)
+
+블로그에 iOS와 알고리즘을 포스트하고 있습니다.
+
+- `2019. 8` iOS 13을 대응해야 하는 개발자가 알아야 하는 8가지 급한 불 리스트https://sesang06.tistory.com/138
+
+- `2019. 3` Fastlane 으로 iOS 빌드 과정을 손쉽게 자동화하자 https://sesang06.tistory.com/124
+
+- `2018. 7` WkWebview post 방식시 httpbody 씹는 문제 (iOS 10 이하 대응) 해결방안 https://sesang06.tistory.com/14
+
+- `2020. 2` UIWebView 를 WKWebView 로 이전할 때 반드시 알아야 하는 7가지 주의 사항 https://sesang06.tistory.com/172
+
+- `2020.2` iOS, Android WebView 와 네이티브간의 유용한 통신 방법 - Javascript Interface, Webkit Messaging https://sesang06.tistory.com/170
+
+- `2020.3` iOS에서 리뉴얼된 위치 정보 변경 필독 사항 https://sesang06.tistory.com/174
+
+- `2020.4` 느려터진 iOS 빌드 속도로 고통받는 당신에게, 카르타고를 권장합니다 https://sesang06.tistory.com/179
+
+- `2020.4` XcodeGen을 활용해 XcodeGen을 활용해 xcodeproj의 마지 컨플릭트에서 벗어나라 https://sesang06.tistory.com/183
 
 ## 어학
 - 영어 : 토익, 930점 (2018.10.28)
@@ -24,6 +87,27 @@
 - 개인적으로 제작한 포트폴리오에요.
 ---
 
+### 안드로이드 네이티브 - 라이트노벨 신간 목록 앱 개발 (2019. 6 ~ 2019. 10)
+
+안드로이드 클라이언트, 서버, 디자인 등등 모두 단독 개발. 알라딘에서 제공하는 API 에 알라딘 웹 페이지를 주기적으로 크롤링하여 db 에 저장합니다. 신간이 있는 날은 아침 10시에 FCM 을 보내줍니다.
+
+Android: RxJava, Kotlin. Server: Mysql, Nodejs-Koa.
+
+크롤러: Python.
+
+소스 : [https://github.com/sesang06/light-novel-android](https://github.com/sesang06/light-novel-android) / [https://github.com/sesang06/light-novel-backend](https://github.com/sesang06/light-novel-backend)
+
+다운로드 : [https://play.google.com/store/apps/details?id=com.sesang06.lightnovellist&hl=ko](https://play.google.com/store/apps/details?id=com.sesang06.lightnovellist&hl=ko)
+
+### 안드로이드 네이티브 - 오늘뭐먹지 앱 개발
+
+개발 시간보다 디자인에 고민한 시간이 더 걸린 Todo-list 앱 변형판.
+
+Android: RxJava, Kotlin.
+
+소스 : [https://github.com/sesang06/today_what_eat_android](https://github.com/sesang06/today_what_eat_android)
+
+다운로드 : [https://play.google.com/store/apps/details?id=com.sesang06.todaywhateat&hl=ko](https://play.google.com/store/apps/details?id=com.sesang06.todaywhateat&hl=ko)
 
 ## **텍스트 리더** (앱스토어 출시)
  <img src="https://github.com/sesang06/RESUME/blob/master/textreader.png?raw=true" width="80" height="80"/>
@@ -96,93 +180,28 @@
 
 ---
 
-#### 개발 중 포스트
-- [UICollectionView서 헤더로 다이나믹하게 높이 계산하는 로직 (UITextView) 넣기](https://sesang06.tistory.com/18)
-- [Alamofire를 이용한 api service 설계](https://sesang06.tistory.com/20)
+## 깃허브
 
-#### 자세한 사항은 리포지토리의 리드미를 확인해 주세요.
-- [https://github.com/sesang06/iOS-toyproject/blob/master/README.md](https://github.com/sesang06/iOS-toyproject/blob/master/README.md)
+### 1) 정보처리 산업기능요원을 위한 쓸만한 정보들 (2019.8 ~ )
 
----
+- 리드미 레포, 소스코드 없음. 산업기능요원을 지망하는 사람들을 위해 흩어진 정보를 정리한 레포지터리.
+- https://github.com/sesang06/awesome-alternative-military-service
+- 스타 200+
 
-## 관심사
+### 2) iOS 리플 이펙트 라이브러리 (2019. 11 ~ 2019. 20)
 
-이런 것을 하고 있어요
-### iOS
-- **swift**로 개발하고 있어요.
-- **objective-C** 로 유지보수 해본 경험도 있어요. 
-- 회사에서 **WkWebView**를 이용한 하이브리드 앱 제작 경험이 있어요.
-- 개인 포트폴리오로 **Native App**을 출시한 경험이 있어요.
+- 안드로이드 머터리얼 디자인을 참고한 리플 이펙트 라이브러리
+- https://github.com/sesang06/Rippleable
+- 제작 후기 [https://sesang06.tistory.com/161](https://sesang06.tistory.com/161)
+- 스타 20+
 
+# 알고리즘
 
-#### 이런 라이브러리를 활용해 봤어요
-- **Snapkit** 
-    - 스토리보드 대신 **코딩**으로 디자인하는 것이 매력적이에요.
-    - 스토리보드 없이 앱 만들기에 도전해보고 있어요!
-- **Alamofire**  
-    - 네트워크 상황에 따른 error-handling을 어떻게 UI로 자연스럽게 처리할 지 고민중이에요.
-    - Social Login Api와 어떻게 결합할 지 고민중이에요.
-- **SdWebImage** 
-    - Cache Handling에 신경을 쓰지 않아도 되서 좋아요.
-- **AlamofireObjectmapper** 
-    - Alamofire로 받은 json 값을 매핑하는 데 사용했어요.
-- **KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin**
-#### 이런 것을 공부하고 있어요
-- **RxSwift**
-- **CoreData**
-- **CALayer**와 **UIBezierPath**, **CABasicAnimation**으로 예쁘게 꾸미고 싶어요
+C++ 로 솔빙합니다. 
+80명 규모 알고리즘 오픈카톡방의 방장입니다. 2019년 11월부터 현재까지 운영하고 있습니다.
 
-### Android
-- **java**로 개발하고 있어요.
-- **Oreo** targetSDKVersion으로 앱을 올려본 경험이 있어요.
-- 회사에서 **Webview**를 이용한 하이브리드 앱 제작 경험이 있어요.
+오픈톡방 설명 : https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286
 
+백준 : [https://www.acmicpc.net/user/sesang06](https://www.acmicpc.net/user/sesang06). 435 solve.
 
-#### 이런 라이브러리를 활용해 봤어요
-- **Glide**
-    - 강력한 이미지 라이브러리. 없어선 못 살아요.
-- **gson**
-    - json을 매핑할 때 즐겨 사용해요.
-- **admob**
-- **KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin**
-####
-이런 것을 공부하고 있어요.
-- **MVVM** 패턴과 데이터 바인딩
-- **Retrofit**을 이용한 네트워크 통신
-- **코틀린** 기초 문법
-
-### 기타
-- **Firebase Crash Report**를 자주 이용합니다.
-- **Google Analystics**로 DAU를 관찰합니다.
-- **APNS**와 **FCM**을 연동해본 적 있어요.
-
-
----
-
-## 티스토리
-- [sesang06.tistory.com](http://sesang06.tistory.com/)
-- 개발 중 발견한 문제점을 티스토리에 올려 정리합니다.
-### 작성한 포스트들
-- [iOS swift 네이버 프로필 api 샘플 코드](https://sesang06.tistory.com/16)
-- [iOS 앱 간의 통신을 구현하기](https://sesang06.tistory.com/21)
-- [iOS Objectiv-C code) WkWebview post 방식시 httpbody 씹는 문제 (iOS 10 이하 대응) 해결방안](https://sesang06.tistory.com/14)
-- [Android 애드몹 'admob getting an ad response. ErrorCode: 0 Failed to load ad:0' 에러 원인](https://sesang06.tistory.com/52)
-
----
-## 기타 코딩 경험
-메이저하게 개발하진 않았지만, 개발해본 경험이 있는 것들이에요
-
-### PHP
-- 프레임워크 없는 php로 개발했어요
-- 백엔드에 미숙해 로딩 속도가 너무 길어 고생했어요
-- 다음 프로젝트에서 php를 쓴다면 라라벨을 써 보고 싶어요
-- curl로 **opengraph**를 파싱해 섬네일을 가져와 봤어요
-- curl로 kakao, facebook, naver, google의 안드로이드-서버, iOS-서버, 웹 클라이언트-서버 간 **oauth 2.0** 서드파티 인증을 구현해 봤어요
-
-### React - Redux(frontend), Django Rest Framework(backend)
-- 대학교 컴퓨터공학부 3학년 1학기 강좌 '소프트웨어 개발의 원리와 실제' 프로젝트에서 사용했어요
-
- 해당 프로젝트 리포지토리 : [https://github.com/sesang06/react-toyproject/blob/master/README.md](https://github.com/sesang06/react-toyproject/blob/master/README.md)
-
-### Mysql
-- 간단한 CRUD을 작성할 수 있어요
+코드포스 : [http://codeforces.com/profile/sesang06](http://codeforces.com/profile/sesang06). Contest Rating 현재 1813. (블루) 최대점수 1900 (퍼플).
